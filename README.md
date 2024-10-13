@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Deshmukh</h1>
-<h3 align="center">Currently Working as SDET-1</h3>
+<h3 align="center">Currently working as SDET-1</h3>
 
 - 🔭 I’m using **Typescript, SQL, Cypress, k6, GitLab, Kubernetes, Docker, AWS, MySQL**
 
